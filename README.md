@@ -9,7 +9,6 @@ A real estate investment company is drafting a plan for building homes that have
 1. Providing business insights through reporting and presentation.
 
 ## Workflow
---
 Despite the dataset contianed linear relationships, it was tackled in a non-linear fashion. I found myself moving back and forth between notebookd for cleaning and modeling.
 
 ### EDA
